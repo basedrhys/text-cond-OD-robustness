@@ -1,1 +1,4 @@
-# text-cond-OD-robustness
+# Robustness of Text-Conditioned Object Detection Models to False Captions
+
+## Setup
+
